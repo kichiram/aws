@@ -12,3 +12,5 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 ![image](https://user-images.githubusercontent.com/91726058/137095101-f0c62ebb-c5ee-4102-a7cb-3bad4bcb6761.png)
 #### 8. 以上でインスタンスの作成は完了です。念のため下記にアクセスしてインスタンスが実行中であることを確認してください
 https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Instances:
+# EC2無料利用枠については制限がありますので下記を確認してください。
+https://aws.amazon.com/jp/free/
