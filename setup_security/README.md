@@ -1,4 +1,4 @@
-# 外部からssh以外のアクセスを許可する設定をします。
+# 外部からssh以外のアクセスを許可する設定をします
 #### 1. 下記URLにアクセスします
 https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#Home:
 #### 2. 「セキュリティグループ」リンクを開きます
