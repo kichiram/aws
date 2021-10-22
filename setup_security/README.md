@@ -8,3 +8,4 @@ https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#
 #### 5. 「ルールを追加」を押し追加された行にタイプを「全てのTCP」、ソースで「Anywhere IPv4」を選択して「ルールを保存」を押します
 ![image](https://user-images.githubusercontent.com/91726058/137289487-28cd18d1-6374-4dd2-9432-f2bb1e8584fa.png)
 #### 6. 以上で設定は完了です
+外部からアクセスする場合のIPアドレス、ホスト名の確認方法は[EC2インスタンスへの接続方法](../connect_ec2_instance/README.md)の「2.2」をご確認ください。
